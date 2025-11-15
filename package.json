@@ -1,0 +1,21 @@
+{
+	"name": "node-modules-counter",
+	"version": "0.0.1",
+	"description": "A CLI tool to count the number of node_modules",
+	"main": "dist/index.js",
+	"bin": {
+		"count-modules": "dist/index.js"
+	},
+	"scripts": {
+		"build": "tsc",
+		"start": "node dist/index.js",
+		"prepublishOnly": "npm run build"
+	},
+	"keywords": [
+		"cli",
+		"node_modules",
+		"funny"
+	],
+	"author": "Adam Konopka",
+	"license": "MIT"
+}
