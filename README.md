@@ -1,8 +1,12 @@
 # 📦 node-modules-counter
 
-A hilarious CLI tool that counts the number of packages in your `node_modules` directory and judges you for it. Because every developer needs a little shame in their life.
+![npm version](https://img.shields.io/npm/v/node-modules-counter.svg)
+![npm downloads](https://img.shields.io/npm/dm/node-modules-counter.svg)
+![license](https://img.shields.io/npm/l/node-modules-counter.svg)
 
-![node-modules-counter](./npm-counter.png)
+![node-modules-counter](./assets/project_logo.png)
+
+A hilarious CLI tool that counts the number of packages in your `node_modules` directory and judges you for it. Because every developer needs a little shame in their life.
 
 ## 🎉 Features
 

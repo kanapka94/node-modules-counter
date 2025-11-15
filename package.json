@@ -2,6 +2,10 @@
 	"name": "node-modules-counter",
 	"version": "0.0.1",
 	"description": "A CLI tool to count the number of node_modules",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kanapka94/node-modules-counter.git"
+	},
 	"main": "dist/index.js",
 	"bin": {
 		"count-modules": "dist/index.js"
@@ -12,9 +16,15 @@
 		"prepublishOnly": "npm run build"
 	},
 	"keywords": [
-		"cli",
 		"node_modules",
-		"funny"
+		"counter",
+		"cli",
+		"developer-tools",
+		"funny",
+		"npm-tools",
+		"package-count",
+		"dev-humor",
+		"javascript-tools"
 	],
 	"author": "Adam Konopka",
 	"license": "MIT"
