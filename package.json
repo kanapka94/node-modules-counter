@@ -1,6 +1,6 @@
 {
 	"name": "node-modules-counter",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A CLI tool to count the number of node_modules",
 	"repository": {
 		"type": "git",
